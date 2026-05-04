@@ -1,7 +1,7 @@
 Checklist de accesibilidad – Formulario Participa
 
 Nombre del estudiante: jose junior  castro ante
-Fecha: 
+Fecha: 04/05/2026
 Nombre de la rama: jose-castro
 
 1. ¿El formulario tiene un título claro?
